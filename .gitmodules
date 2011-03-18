@@ -1,0 +1,3 @@
+[submodule "hamlphp"]
+	path = hamlphp
+	url = git@github.com:svallory/HamlPHP.git
